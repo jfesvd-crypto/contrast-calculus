@@ -28,4 +28,6 @@ dev = ["pytest", "black", "ruff"]
 [project.urls]
 Homepage = "https://github.com/jfesvd-crypto/contrast-calculus"
 Repository = "https://github.com/jfesvd-crypto/contrast-calculus"
+[project.scripts]
+contrast-calculus = "contrast_calculus.__main__:main"
 
