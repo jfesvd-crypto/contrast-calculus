@@ -1,6 +1,6 @@
 [project]
 name = "contrast-calculus"
-version = "1.0.0"
+version = "1.0.3"
 description = "A high-performance computational framework for braided fusion categories and TQFT applications."
 authors = [
     {name = "Janusz Feszter", email = "jfeshter@gmail.com"}
